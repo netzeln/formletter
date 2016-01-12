@@ -1,0 +1,16 @@
+#letter {
+  display: none;
+}
+
+.paper {
+  background-color: #fcf6de;
+
+}
+
+.handwriting{
+  font-family: cursive;
+}
+
+.indent {
+  padding-left: 25px; 
+}
